@@ -49,12 +49,7 @@ Analyzed 2024 sales trends, mapped product lifecycles, and conducted RFM analysi
 - 🎯 Passionate about continuous learning, currently building API-based and cloud-integrated projects
 
 ---
-
-## 📫 Let’s Connect
-
-- 🔗 [Portfolio Website](https://sites.google.com/view/kishandatanalyst/home)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kishan-insights)  
-- ✉️ kishan.hansoge@email.com  
+ 
 
 > *"The best analysts think like engineers, and the best engineers think like analysts."*
 
