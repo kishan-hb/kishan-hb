@@ -1,4 +1,3 @@
-<img src="https://drive.google.com/uc?export=view&id=1kq_ZXgFapOCcArUqHvXAgd-Qn-kMximA" alt="Kishan Hansoge" width="150" style="border-radius: 50%;" align="right"/>
 
 # 👋 Hi, I'm Kishan Hansoge
 
